@@ -57,7 +57,8 @@
 
 #  📒 ERD
 
-![2023-06-26 14;29;26](https://github.com/backEndKwon/Algorithm/assets/128948886/c57c86e2-1efe-4c3d-ae81-cdbfb8a0e2f1)
+![스크린샷 2023-07-09 145223](https://github.com/Siwon-Kim/broccoli_market_backend/assets/76824986/293422c4-6118-46cb-b7a4-7b3ec14bd5f6)
+
 
 <br>
 
