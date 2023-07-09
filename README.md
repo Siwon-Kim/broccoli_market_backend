@@ -48,10 +48,13 @@
 <br>
 
 # 💣 Troubleshooting
+1. Cookie Header Issue between FE & BE: [Description](https://www.notion.so/siwonmadang/Cookie-Header-Issue-between-FE-BE-19b9c1966e214530ba30a7007ed61f68?pvs=4) </br>
+2. Chat History Loading Speed Improvement by Converting MySQL -> MongoDB (NoSQL): [Description](https://www.notion.so/siwonmadang/Converting-MySQL-MongoDB-NoSQL-for-Loading-Speed-Improvement-1136d693450143d9bcdbcb87fbe69294?pvs=4)</br>
+3. Search API Speed Improvement by Adapting ElasticSearch: [Description](https://www.notion.so/siwonmadang/Search-API-Speed-Improvement-using-ElasticSearch-12fb8be0ae8d4f4e8203b7ebdae7b6ff?pvs=4)</br>
 
 <br>
 
-# 🚩 [API Specification](https://www.notion.so/siwonmadang/26358f682bfc4cd8b6a32b743b077ef8?v=a4d6475c44cc4c4b9e2ed8e925c7db17)
+# 🚩 [API Specification](https://www.notion.so/siwonmadang/Broccoli-Market-532e14167caa43dbba3e6aef2cdafb8f?pvs=4#6601d3b0f8f842869ef07fd4cd76dd7a)
 
 <br>
 
